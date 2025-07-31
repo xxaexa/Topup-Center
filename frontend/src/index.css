@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+body {
+  font-family: 'Orbitron', sans-serif;
+}
+
+@theme {
+    --color-bg:#181919;
+    --color-navbar:#0D2F3B;
+    --color-sidebar:#CDEDF6;
+    --color-card:#123E4F;
+    --color-box:#164E63;
+    --color-input:#0D2F3B;
+    --color-button:#00ffc6;
+    --color-button-hover:#2D97C6;
+    --color-text:#E0E0E0;
+
+
+ 
+
+}
+
