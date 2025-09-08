@@ -22,5 +22,8 @@ Aplikasi website top-up voucher game online menggunakan **MERN Stack**, **TypeSc
 
 ## 🧑‍💻 Instalasi Lokal
 
+- npm i pada tiap folder
+- npm run dev
+
 ### Url Topup Center 
 https://fe-topup-online.vercel.app/
